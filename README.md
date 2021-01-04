@@ -8,12 +8,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=savicsly&show_icons=true&theme=radical&count_private=true" alt="savicsly" />
 </div>
 
-<br />
+<br>
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savicsly&layout=compact&hide=html&theme=radical" alt="savicsly" />
 </div>
-<br />
+<br>
 
 
 <!--
@@ -30,3 +30,8 @@
 - ⚡ Fun fact: ...
 </div>
 -->
+
+<br>
+
+
+  ![](https://komarev.com/ghpvc/?username=savicsly)
