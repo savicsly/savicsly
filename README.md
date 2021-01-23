@@ -30,7 +30,9 @@
 
 <br>
 
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savicsly&layout=compact&hide=html&theme=radical" alt="savicsly" />
+-->
 
 <br>
 
