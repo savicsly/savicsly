@@ -2,10 +2,6 @@
 
 <p align="center">👋 I'am Victor Bala a passionate Software Engineer</p>
 
-<h4 align="center">
-💻 full stack developer <a href="https://github.com/savicsly/binghamuni">@BinghamUni</a>
-</h4>
-
 <br>
 
 <!--
